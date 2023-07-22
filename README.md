@@ -2,7 +2,7 @@
 
 My name is German Semeykin and I'm working as a **Software Engineer**. Also I'm currently studying to become a **Data Analyst**. My path of mastering a new profession had started in February 2023, when I've signed up for Yandex Praktikum Data Analyst course.
 
-You can find me on [Telegram][1], or send me an email on gera.info@mail.ru.
+You can find me on [Telegram][1], or send me an email on [gera.info@mail.ru][2].
 
 
 ## 💬 About me
@@ -27,14 +27,6 @@ You can find me on [Telegram][1], or send me an email on gera.info@mail.ru.
 ![tools](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 
-## 💻 Projects
-
-- Attrition Analysis
-- Bank Loan Analysis
-- Apartment Sales Analysis
-- Games Sales Analysis
-
-
 ## 📚 Courses
 
 - Yandex Praktikum (Data Analyst course)
@@ -44,3 +36,4 @@ You can find me on [Telegram][1], or send me an email on gera.info@mail.ru.
 <!-- Links to social media accounts -->
 
 [1]: https://t.me/cemeykin
+[2]: mailto:gera.info@mail.ru
