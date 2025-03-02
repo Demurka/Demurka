@@ -1,17 +1,15 @@
 # Hello! 👋
 
-My name is German Semeykin and I'm working as a **Software Engineer**. Also I'm currently studying to become a **Data Analyst**. My path of mastering a new profession had started in February 2023, when I've signed up for Yandex Praktikum Data Analyst course.
+My name is German Semeykin and I'm working as a **Data Analyst**. My path of mastering a new profession had started in February 2023, when I've signed up for Yandex Praktikum Data Analyst course.
 
 You can find me on [Telegram][1], or send me an email on [gera.info@mail.ru][2].
 
-
 ## 💬 About me
 
-- Currently studying Data Analysis at Yandex Praktikum (Python, Jupyter Notebook, Statistics)
+- Currently working as Data Analyst in Sber
 - Additionally study Machine Learning
 - Love Fishing 🎣
 - In passion with football and volleyball ⚽
-
 
 ## 🔧 Technologies & Tools
 
@@ -26,12 +24,10 @@ You can find me on [Telegram][1], or send me an email on [gera.info@mail.ru][2].
 ![tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![tools](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-
 ## 📚 Courses
 
 - Yandex Praktikum (Data Analyst course)
 - Coursera (Data Science specialization)
-
 
 <!-- Links to social media accounts -->
 
